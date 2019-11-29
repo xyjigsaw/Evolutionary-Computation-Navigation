@@ -1,4 +1,4 @@
-# Evolutionary-Computation-Navigation
+# **Evolutionary-Computation-Navigation**
 来自OmegaXYZ.com演化计算文章目录
 
 
@@ -54,7 +54,7 @@
 
 **[基于迭代局部搜索和随机惯性权重的BA算法MATLAB实现（ILSSIWBA）](http://www.omegaxyz.com/2019/02/28/ilssiwba/)**
 
-## **NSGA2****算法**
+## **NSGA2算法**
 
 **[NSGA-II多目标遗传算法概述](http://www.omegaxyz.com/2017/04/14/nsga-iiintro/)**
 

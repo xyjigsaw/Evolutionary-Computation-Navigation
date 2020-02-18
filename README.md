@@ -1,5 +1,5 @@
 # **Evolutionary-Computation-Navigation**
-来自[OmegaXYZ.com](www.omegaxyz.com)演化计算文章目录
+来自[OmegaXYZ.com](http://www.omegaxyz.com)演化计算文章目录
 
 
 ---

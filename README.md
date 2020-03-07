@@ -1,6 +1,11 @@
 # **Evolutionary-Computation-Navigation**
 来自[OmegaXYZ.com](https://www.omegaxyz.com)演化计算文章目录
 
+纪念逝去的本科时光
+
+# Acknowledgement
+Dr.Chen Dr.Zhang and Dr.Qiu 
+
 ---
 
 # **演化计算算法**

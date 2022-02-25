@@ -1,10 +1,10 @@
 # **Evolutionary-Computation-Navigation**
 来自[OmegaXYZ.com](https://www.omegaxyz.com)演化计算文章目录
 
+Navigator:[Click here](https://www.omegaxyz.com/archive/evolutionary-algorithm-navigator/)
+
 Evolutionary Computation Tool: [PlatEMO](https://github.com/BIMK/PlatEMO) by BIMK Lab
 
-# Acknowledgement
-Dr.Chen Dr.Zhang and Dr.Qiu 
 
 ---
 
